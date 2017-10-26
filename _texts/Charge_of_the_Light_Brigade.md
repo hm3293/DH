@@ -17,7 +17,7 @@ Source: Poetry Foundation
 ## II
 - "Forward the Light Brigade!"
 - Was there a man dismayed?
-- Not though the soilde knew
+- Not though the soilder knew
 - {:.indent-1} Someone had blundered.
 - {:.indent-1} Theirs not to make reply
 - {:.indent-1} Theirs not to reason why,
@@ -35,8 +35,6 @@ Source: Poetry Foundation
 - Into the mouth of hell
 - {:.indent-1} Rode the six hundred.
 ## IV
-- Flashed all their sabres bare,
-- Flashed as they turned in air
 - Flashed all their sabres bare,
 - Flashed as they turned in air
 - Sabring the gunners there,
@@ -65,8 +63,8 @@ Source: Poetry Foundation
 - When can their glory fade?
 - O the wild charge they made!
 - {:.indent-1} All the world wondered.
-- Honour the charge they made!
-- Honour the Light Brigade,
+- Honor the charge they made!
+- Honor the Light Brigade,
 - {:.indent-1} Noble six hundred!
 
 
